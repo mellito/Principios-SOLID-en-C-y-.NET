@@ -1,0 +1,15 @@
+D:\Principios-SOLID-en-C-y-.NET\4-InterfaceSegregation\bin\Debug\net9.0\InterfaceSegregation.exe
+D:\Principios-SOLID-en-C-y-.NET\4-InterfaceSegregation\bin\Debug\net9.0\InterfaceSegregation.deps.json
+D:\Principios-SOLID-en-C-y-.NET\4-InterfaceSegregation\bin\Debug\net9.0\InterfaceSegregation.runtimeconfig.json
+D:\Principios-SOLID-en-C-y-.NET\4-InterfaceSegregation\bin\Debug\net9.0\InterfaceSegregation.dll
+D:\Principios-SOLID-en-C-y-.NET\4-InterfaceSegregation\bin\Debug\net9.0\InterfaceSegregation.pdb
+D:\Principios-SOLID-en-C-y-.NET\4-InterfaceSegregation\obj\Debug\net9.0\InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Principios-SOLID-en-C-y-.NET\4-InterfaceSegregation\obj\Debug\net9.0\InterfaceSegregation.AssemblyInfoInputs.cache
+D:\Principios-SOLID-en-C-y-.NET\4-InterfaceSegregation\obj\Debug\net9.0\InterfaceSegregation.AssemblyInfo.cs
+D:\Principios-SOLID-en-C-y-.NET\4-InterfaceSegregation\obj\Debug\net9.0\InterfaceSegregation.csproj.CoreCompileInputs.cache
+D:\Principios-SOLID-en-C-y-.NET\4-InterfaceSegregation\obj\Debug\net9.0\InterfaceSegregation.sourcelink.json
+D:\Principios-SOLID-en-C-y-.NET\4-InterfaceSegregation\obj\Debug\net9.0\InterfaceSegregation.dll
+D:\Principios-SOLID-en-C-y-.NET\4-InterfaceSegregation\obj\Debug\net9.0\refint\InterfaceSegregation.dll
+D:\Principios-SOLID-en-C-y-.NET\4-InterfaceSegregation\obj\Debug\net9.0\InterfaceSegregation.pdb
+D:\Principios-SOLID-en-C-y-.NET\4-InterfaceSegregation\obj\Debug\net9.0\InterfaceSegregation.genruntimeconfig.cache
+D:\Principios-SOLID-en-C-y-.NET\4-InterfaceSegregation\obj\Debug\net9.0\ref\InterfaceSegregation.dll
