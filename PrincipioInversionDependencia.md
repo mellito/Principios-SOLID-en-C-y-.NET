@@ -10,3 +10,7 @@
 - singleton: misma referencia en todo el ciclo de vida de la api
 - scope: cada componente que lo use solo una vez
 - transient: se crea una referencia en todo los componentes que la use
+
+## Pruebas Unitarias y Principio de Inversión de Dependencias en .NET
+
+con la inyeccion de dependencia se puede mockear esta misma para no tocar codigo real
